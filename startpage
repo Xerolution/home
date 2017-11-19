@@ -1,0 +1,56 @@
+<html>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <title>Homepage</title><style type="text/css">
+<!--
+body {
+  background-color: #f3f3f3;
+  font-family: Futura Lt BT;  font-size: 15px;
+  font-weight: normal;
+  margin-left: 15%;
+  margin-top: 10%;
+}
+a:link,a:visited,a:active {
+  text-decoration: none;
+  color: #95c1c0;
+  font-weight: normal;
+}
+a:hover {
+  text-decoration: underline;
+  color: #75A1A0;
+  font-weight: normal;
+}
+table {
+  border-spacing: 8px;
+}
+td:first-child {
+  font-weight: normal;
+  color: #d2a4b4; 
+}
+td:nth-child(2) {
+  font-weight: normal;
+  color: #707070;
+}
+-->
+</style></head>
+<body>
+  <table valign="top" border="0" width="100%" height="20%"><tr><td><table>
+
+<tr><td align="right">MAIN</td><td>    ||  </td><td><a href="http://www.reddit.com">reddit</a>  <a href="http://www.lastfm.de/home">last.fm</a>  <a href="http://www.deviantart.com/">deviantart</a>  <a href="https://www.youtube.com/">youtube</a>  </td></tr><tr>
+
+<td align="right">BIKE</td><td>    ||  </td><td><a href="http://zx6r.com/">ZX6R</a>  <a href="http://www.racing4fun.de/">racing4fun</a>  <a href="http://www.1000ps.at">1000PS</a>  <a href="http://www.kawasaki-ninja-forum.de/">ninja</a>  <a href="http://www.bikeexif.com/">BikeExif</a>  </td></tr><tr>
+
+<td align="right">SUMO</td><td>    ||  </td><td><a href="http://www.powerwheelie.de">powerwheelie</a>  <a href="http://www.husqvarna-forum.de/">Husqvarna</a>  <a href="http://www.supermoto-austria.at">SuMo-Austria</a>  <a href="http://www.supermoto-racing.de">SuMo-Racing</a>  <a href="http://supermotojunkie.com/">SMJ</a>  </td></tr><tr>
+                                                                          
+
+<td  align="right">GAME</td><td>    ||  </td><td><a href="https://discordapp.com/channels/@me">discord</a>  <a href="http://www.mmo-champion.com/content/">mmo-champion</a>  <a href="https://www.reddit.com/r/pathofexile">r/poe</a>  <a href="https://www.pathofexile.com/">pathofexile</a>  <a href="https://boards.4chan.org/w/catalog">Wallpaper</a>  </td></tr><tr>
+
+<td align="right">DOWN</td><td>    ||  </td><td><a href="http://deathgrind.net/">deathgrind</a>  <a href="http://sharethisbreath.blogspot.co.at/">s.t.b.</a>  <a href="https://boerse.to/">boerse</a>  <a href="https://onedrive.live.com/">OneDrive</a>  </td></tr><tr>
+
+<td align="right">SHOP</td><td>    ||  </td><td><a href="http://www.amazon.de/">amazon</a>  <a href="http://www.sandras-tieroase.de/">tieroase</a>  <a href="http://www.willhaben.at/iad">willhaben</a>  <a href="http://kleinanzeigen.ebay.de/anzeigen/">Kleinanzeigen</a>  <a href="http://www.ebay.at/">Ebay</a> </td></tr><tr>
+
+<td align="right">CRAP</td><td>    ||  </td><td><a href="https://github.com/Xerolution">github</a>  <a href="http://www.anime-loads.org">anime</a>  <a href="http://kissanime.ru/">kissanime</a>  <a href="http://twitch.tv/directory/following">twitch</a>  <a href="http://vgt.at/">vgt</a> </td></tr>
+
+  </table></td></tr></table>
+</body>
+</html>
