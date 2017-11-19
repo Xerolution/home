@@ -1,0 +1,2 @@
+# home
+startpage for firefox
